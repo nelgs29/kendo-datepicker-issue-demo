@@ -1,3 +1,3 @@
 # kendo-datepicker-issue-demo
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/nelgs29/kendo-datepicker-issue-demo)
+Reproducing kendo issue on date picker component and workaround. Related to (https://github.com/telerik/kendo-react/issues/1749)
